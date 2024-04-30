@@ -9,13 +9,13 @@ To embark on this adventure, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/sdeevanapalli/TerminalGame.git
+    git clone https://github.com/sdeevanapalli/BunnyBounce.git
     ```
 
 2. Navigate to the game directory:
 
     ```bash
-    cd TerminalGame
+    cd BunnyBounce
     ```
 
 3. Execute the shell script `run_game.sh`:
