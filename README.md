@@ -1,6 +1,6 @@
-# Terminal Game 🐰🥕
+# Bunny Bounce: Carrot Quest 🐰🥕
 
-Welcome to the Terminal Game, where you guide a rabbit through a maze to collect carrots! 🌟
+Welcome to Bunny Bounce: Carrot Quest, where you guide a rabbit through a maze to collect carrots! 🌟
 
 ## How to Run
 
@@ -62,4 +62,4 @@ The game unfolds on a grid-based map teeming with carrots and treacherous holes.
 
 ## Enjoy the Game! 🎉
 
-Have fun playing the Terminal Game and see if you can collect all the carrots without falling into any holes!
+Have fun playing Bunny Bounce: Carrot Quest and see if you can collect all the carrots without falling into any holes!
